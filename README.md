@@ -25,8 +25,7 @@ I am constantly seeking new challenges and opportunities to enhance my skills as
 ##
 
 #### Talk to me:
-[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]([https://www.linkedin.com/in/thiago-chaves-2469b6218/](https://www.linkedin.com/in/yasmimmafort/))
- <a href = "mailto:yasmimmafort@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yasmimmafort/) <a href = "mailto:yasmimmafort@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
 
