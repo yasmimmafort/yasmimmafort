@@ -16,7 +16,7 @@ I am constantly seeking new challenges and opportunities to enhance my skills as
 ##
 
 #### Languages i use:
-[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=c,cpp,js,java,py,"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=c,cpp,js,java,py,"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ##
 
