@@ -16,15 +16,12 @@ I am constantly seeking new challenges and opportunities to enhance my skills as
 ##
 
 #### Languages i use:
-[<img height="48px" width="48px" src="https://skillicons.dev/icons?i=c,cpp,js,java,py,"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=c,cpp,js,java,py,"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ##
 
 #### My tools:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
-[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
-
+[<img src="https://skillicons.dev/icons?i=linux,powershell,vscode,vim,git,github"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ##
 
 #### Talk to me:
@@ -34,12 +31,11 @@ I am constantly seeking new challenges and opportunities to enhance my skills as
 ##
 
 #### Education:
-Na visão geral abaixo você encontrará minha formação acadêmica:
 
 [<img align="left" height="94px" width="120px" alt="Warpnet" src="https://i.postimg.cc/p9N2Zdqw/42.png"/>](https://42.rio/)
 **Software engineer** \
 [**42 Rio**](https://42.rio/) \
-Languages - Front-end: `HTML`, `CSS`,`JavaScript`, `React.js`, `TypeScript`
+Languages - Front-end: `JavaScript`, `React.js`, `TypeScript`
 <br/>Languages - Back-end: `C`, `C++`, `Python`, `Node.js`, `Shell`, `VirtualBox`
 
 ##
