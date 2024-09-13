@@ -16,12 +16,12 @@ I am constantly seeking new challenges and opportunities to enhance my skills as
 ##
 
 #### Languages i use:
-[<img src="https://skillicons.dev/icons?i=c,cpp,js,java,py,"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=c,cpp,py,"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ##
 
 #### My tools:
-[<img src="https://skillicons.dev/icons?i=linux,powershell,vscode,vim,git,github"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=linux,powershell,docker,mysql,postgresql,vscode,vim,git,github"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ##
 
 #### Talk to me:
